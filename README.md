@@ -1,3 +1,5 @@
+> This repository is deprecated. Please use [ajilach/actions-cleanup-ghaction](https://github.com/ajilach/actions-cleanup-ghaction) instead.
+
 # Runner Post Cleanup
 A Github Action to clean the runner workspace - mostly copied from https://github.com/colpal/actions-clean. 
 
