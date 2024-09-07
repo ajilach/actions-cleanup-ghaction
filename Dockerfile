@@ -1,5 +1,5 @@
 # Container image that runs your code
-FROM alpine:3.20.2
+FROM alpine:3.20.3
 RUN apk add --no-cache bash
 
 # Copies your code file from your action repository to the filesystem path `/` of the container
